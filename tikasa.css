@@ -54,10 +54,6 @@ a:hover {
 
 }
 
-
-
-
-
 @media  (min-width: 720px) {
 
 	.grid-main {
@@ -91,11 +87,11 @@ img{
 
 
 .flex-main{
-	
+
 }
 
-.flex-main > h2 {
-	 display: inline;
+.flex-main > h3 {
+	display: inline;
 }
 
 
